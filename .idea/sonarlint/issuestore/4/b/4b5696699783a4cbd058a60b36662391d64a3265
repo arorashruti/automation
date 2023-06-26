@@ -1,0 +1,8 @@
+
+£
+java:S1192"…Define a constant instead of duplicating this literal "********************************************************************" 3 times.(’ñš8™²Ç1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆº¸a8¢²Ç1
+k
+java:S3008"NRename this field "Log" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›„üè8½²Ç1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¼¡ŠÄùÿÿÿÿ8Ç²Ç1

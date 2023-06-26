@@ -1,0 +1,24 @@
+{
+  "uuid": "0b48c5ed-330d-4092-a9d4-e777520eed86",
+  "name": "com.assessment.core.web.BaseClass.quitDriver",
+  "children": [
+    "c92f619e-497e-4e8d-b78e-ce65d1500fe0"
+  ],
+  "description": "",
+  "befores": [],
+  "afters": [
+    {
+      "name": "quitDriver",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1687713975234,
+      "stop": 1687713975446
+    }
+  ],
+  "start": 1687713975234,
+  "stop": 1687713975446
+}

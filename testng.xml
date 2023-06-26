@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="SmokeTesting">
+    <test name="/Users/shruti.arora/automation/src/main/java/com/assessment/tests">
+    <classes>
+            <class name="com.assessment.tests.SearchTest">
+                <methods>
+                    <include name="searchTermTest"/>
+                    <include name="searchAnotherTermTest"/>
+                </methods>
+            </class>
+            <class name="com.assessment.tests.SecondSearchTest">
+                <methods>
+                    <include name="secondSearchTest"/>
+                    <include name="searchAnotherTermTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

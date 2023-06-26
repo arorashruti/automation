@@ -1,0 +1,6 @@
+2023-06-26 22:42:39,756  INFO [main] Logs:14 - ********************************************************************
+2023-06-26 22:42:39,758  INFO [main] Logs:15 - ######## start test case : searchAnotherTermTest ########
+2023-06-26 22:42:39,758  INFO [main] Logs:16 - ********************************************************************
+2023-06-26 22:42:39,759  INFO [main] Logs:30 - ##### fetching data from excel sheet ######
+2023-06-26 22:42:40,408  INFO [main] Logs:30 - Search Shruti in google
+2023-06-26 22:42:40,436  INFO [main] Logs:30 - Unable to capture screenshot
